@@ -1,0 +1,10 @@
+.divs_container{
+  padding: 10px;
+  border: 1px solid;
+  margin: 10px;
+  border: 1px solid;
+  gap: 2vh;
+}
+.pColor {
+  color: blue;
+}
